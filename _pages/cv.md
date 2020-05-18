@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Combat Engineer, Sergeant, Army, 2017 - 2019
+
