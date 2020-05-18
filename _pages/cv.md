@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemical Engineering, Carnegie Mellon University, Spring 2020 - Fall 2020, (Exchange Program)
 * B.S. in Chemical and Biomolecular Engineering, Yonsei University,  - Spring 2022 (expected)
-* B.S. in Electrical and Electronic Engineering, Korea University, Fall 2016
+* B.S. in Electrical and Electronic Engineering, Korea University, Fall 2015
 
 Work experience
 ======
