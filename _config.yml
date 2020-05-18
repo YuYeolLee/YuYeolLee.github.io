@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Yeol Lee"
+title                    : "YY Lee - Academic Page"
 title_separator          : "-"
 name                     : &name "Yu Yeol Lee "
 description              : &description "Undergraduate in Carnegie Mellon"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YY LEE"
+  name             : "Yu Yeol Lee"
   avatar           : "profile.png"
   bio              : "Carnegie Mellon University"
   location         : "Pittsburgh, PA"
