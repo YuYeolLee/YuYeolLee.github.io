@@ -55,5 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Vice President, Computer Club, Yonsei University
-* Secretary, Yacht Club, Yonsei University 
+* Vice President, Computer Club, Yonsei University  Spring 2017
+* Secretary, Yacht Club, Yonsei University          Spring 2017
