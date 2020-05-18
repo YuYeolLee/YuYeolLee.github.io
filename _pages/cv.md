@@ -24,16 +24,16 @@ Work experience
   
 Skills
 ======
-* Skill 1 C
-* Skill 2 Python
-  * Sub-skill 2.1 Scipy
-  * Sub-skill 2.2 PyTorch
-* Skill 3 Selenium
-* Skill 4 MATLAB
-* Skill 5 TeX
-* Skill 6 Linux
-* Skill 7 Analytical Chemistry
-* Skill 8 Electrical Wiring
+*  C
+*  Python
+  *  Scipy
+  *  PyTorch
+*  Selenium
+*  MATLAB
+*  TeX
+*  Linux
+*  Analytical Chemistry
+*  Electrical Wiring
 
 Publications
 ======
