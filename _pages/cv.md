@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Engineering, Carnegie Mellon University, Spring 2020 - Fall 2020, (Exchange Program)
+* B.S. in Chemical and Biomolecular Engineering, Yonsei University,  - Spring 2022 (expected)
+* B.S. in Electrical and Electronic Engineering, Korea University, Fall 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - Feb 2019: Explosive Management
+  * Army
+  * Sergeant
+  * Duties included: Demining
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1 C
+* Skill 2 Python
+  * Sub-skill 2.1 Scipy
+  * Sub-skill 2.2 PyTorch
+* Skill 3 Selenium
+* Skill 4 MATLAB
+* Skill 5 TeX
+* Skill 6 Linux
+* Skill 7 Analytical Chemistry
+* Skill 8 Electrical Wiring
 
 Publications
 ======
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President, Computer Club, Yonsei University
+* Secretary, Yacht Club, Yonsei University 
