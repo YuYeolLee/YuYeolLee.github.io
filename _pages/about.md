@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is the academic website of YY(Andy) Lee.
-이유열입니다.
+
