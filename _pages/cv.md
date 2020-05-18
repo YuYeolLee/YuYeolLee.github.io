@@ -17,10 +17,7 @@ Education
 
 Work experience
 ======
-# May 2017 - Feb 2019: Combat Engineer
-  # Army
-  # Sergeant
-  # Duties included: Demining
+
   
 Skills
 ======
@@ -55,5 +52,3 @@ Teaching
   
 Service and leadership
 ======
-# Spring 2017, Vice President, Computer Club, Yonsei University
-# Spring 2017, Secretary, Yacht Club, Yonsei University
