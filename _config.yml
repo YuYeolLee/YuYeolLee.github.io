@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YY Lee - Academic Page"
 title_separator          : "-"
 name                     : &name "Yu Yeol Lee "
-description              : &description "Undergraduate in Carnegie Mellon"
+description              : &description "Undergraduate at Carnegie Mellon"
 url                      : https://YuYeolLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuYeolLee.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/andy-l-2538371a2/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
