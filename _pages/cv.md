@@ -29,11 +29,11 @@ Work experience
   
 Skills
 ======
-*  C
 *  Python
   *  ASE
   *  Scipy
   *  PyTorch
+*  C
 *  Selenium
 *  MATLAB
 *  TeX
