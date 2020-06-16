@@ -17,20 +17,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * ARPA-E ACED team (Carnegie Mellon University)
+  * https://www.cmu.edu/aced/
+  * Duties included: Investigate implementation adsorbate GCNN codes, Manage ASE database
+  * Supervisor: Professor Venkat Viswanathan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - Feb 2019: Explosive Management, Sergeant (Army)
+  * Trained in Explosive Management(graduated 3rd of over 100 trainees)
+  * Duties included: Mine Removal Task Team (Demilitarized Zone)
   
 Skills
 ======
 *  C
 *  Python
+  *  ASE
   *  Scipy
   *  PyTorch
 *  Selenium
