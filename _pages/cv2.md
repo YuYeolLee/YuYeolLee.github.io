@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+http://YuYeolLee.github.io/files/cv.pdf
+
 Education
 ======
 * B.S. in Chemical Engineering, Carnegie Mellon University, Spring 2020 - Fall 2020, (Exchange Program)
