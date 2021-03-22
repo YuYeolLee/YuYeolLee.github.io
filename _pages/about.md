@@ -10,3 +10,4 @@ redirect_from:
 
 This is the academic website of YY(Andy) Lee.
 
+CV : http://YuYeolLee.github.io/files/cv.pdf
